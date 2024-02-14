@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @dustincookson
 - 👀 I’m interested in IT, Networking, Cloud and Cybersecurity
 - 🌱 I’m currently learning Computer Science at TESU, Microsoft Azure, Comptia
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on labs
 - 📫 How to reach me dustin.cookson@yahoo.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
